@@ -18,8 +18,8 @@ My mentor this summer is [Dr. Ronald Metoyer](http://sites.nd.edu/ronald-metoyer
 
 The HCI Lab has recently begun a project called Food Information Networks(FINs) to use technological innovation for food dessert access issues. For this summer, I will be assessing literature and survey how food information is currently communicated through online grocery stores. Then, we will be developing a visual narrative of a 'food story' to communicate the important facts to a consumer such as ingredients, nutrition, branding, prices, portion sizes, etc.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](briannawimer/dreu/files/finalreport.pdf)
 
 ## My Blog
 
-[My Blog](dreu/blog.html)
+[My Blog](briannawimer/dreu/blog.html)
