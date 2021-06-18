@@ -22,4 +22,4 @@ The HCI Lab has recently begun a project called Food Information Networks(FINs) 
 
 ## My Blog
 
-[My Blog](blog.html)
+[My Blog](myblog.html)
